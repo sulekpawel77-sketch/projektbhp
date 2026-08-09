@@ -1,4 +1,4 @@
-# Budowa AI Bezpieczeństwo - BauGuard AI# Projekt BHP
+# Projekt BHP - Budowa AI Bezpieczeństwo
 
 ## Summary
 Projekt kursowy o budowaniu AI – BauGuard AI to inteligentny system wykorzystujący konwolucyjne sieci neuronowe (CNN) do automatycznego wykrywania naruszeń przepisów BHP na placu budowy w czasie rzeczywistym.
